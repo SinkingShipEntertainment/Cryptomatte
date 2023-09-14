@@ -3,3 +3,6 @@
 .DS_Store
 *.pyc
 Thumbs.db
+
+# SSE
+_rez_build
